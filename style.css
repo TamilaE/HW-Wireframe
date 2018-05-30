@@ -1,0 +1,108 @@
+body{
+font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+background:#777;
+color: #777;
+width: 960px;
+font-size: 18px;
+line-height:32px;
+}
+
+header{
+    background:#ebebeb;
+    text-align: center;
+    padding-top:3%;
+    padding-bottom: 3%;
+    
+
+}
+
+nav{
+    background: #ebebeb;   
+    padding-top:7%;
+    padding-bottom:7%;
+    margin-top:1%;
+    text-align: center;
+
+  
+}
+
+a{
+    width:16.6%;
+    float:left;
+    background:#ebebeb;
+    color:#777;
+   
+}
+
+#section{
+   background: #ebebeb;
+   color:#777;
+    width:495px;
+    float: left;
+    margin-bottom: 1%;
+    padding:1.40%;
+    margin-top:1.50%;
+    text-align: center;
+        
+}
+
+#article{
+    color: #ebebeb;
+    background: #777;
+    padding:1.49%;
+    margin-top:1.50%;
+    text-align: center;
+}
+
+#AboutD{
+    background: #ebebeb;
+    color:#777;
+    padding:1.49%;
+    margin-top:1.50%;
+}
+
+#About {
+    background: #ebebeb;
+    color:#777;
+    text-align: center;
+}
+
+#paragraph{
+    color: #ebebeb;
+    background: #777;
+    padding-top:1%;
+}
+
+aside{
+    background: #ebebeb;
+    float: right;
+    width:425px;
+    height:1413px;
+    margin-top:1.49%;
+    padding:.19%;
+    
+}
+   
+
+footer{
+    background: #ebebeb;
+    clear:both;
+    padding:2.4%;
+    clear:both;
+}
+
+h1{
+    color: #777;
+background: #ebebeb;
+}
+
+p{
+    color: #777;
+    background: #ebebeb;
+}
+
+h2,h3{
+    color: #777;
+background: #ebebeb;
+}
+
